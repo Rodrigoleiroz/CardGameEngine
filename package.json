@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Rodrigoleiroz/CardGameEngine/issues"
   },
-  "homepage": "https://github.com/Rodrigoleiroz/CardGameEngine#readme"
+  "homepage": "https://github.com/Rodrigoleiroz/CardGameEngine#readme",
+  "dependencies": {
+    "mongodb": "^3.6.6"
+  }
 }
